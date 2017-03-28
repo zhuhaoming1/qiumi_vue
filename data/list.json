@@ -1,0 +1,3812 @@
+{
+    "result": {
+        "artileList": {
+            "RemoveArticleIds": ",297934,",
+            "Articles": [
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "昨日推七3红1走3黑很抱歉让信任人杰的兄弟损失了水钱人杰立志做有态度的分析师，努力让您红单！其中人杰特有的机器学习第一次尝试NBA在雷霆前两节均落后的情况下最后一节最终翻盘虽然仅是走盘，但依然显示出大",
+                    "omnCardValue": 0,
+                    "id": "297942",
+                    "matches": [],
+                    "last_modified": "2017-03-28 13:17:50",
+                    "price": "8",
+                    "date_added": "2017-03-28 13:17:50",
+                    "rejected": false,
+                    "authorName": "人杰足彩",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161124_171732793037_835_avatar.jpg",
+                    "author_id": "375",
+                    "chargeable": true,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "赛事信息：世预赛亚洲区 20:00 伊朗vs中国；玩法推荐：单场亚盘让球胜负；赛事分析： 没错，这次国足再战伊朗，尽管赛前遭遇伊朗各种套路，相信银狐的带领下不至于惨败； 这是前言，我们还",
+                    "omnCardValue": 0,
+                    "id": "297926",
+                    "matches": [
+                        {
+                            "entry_id": "116114",
+                            "away_team": "中国",
+                            "start_time": "2017-03-28 20:00:00",
+                            "cup_name": "世预赛",
+                            "home_team": "伊朗"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 12:48:04",
+                    "price": "8",
+                    "date_added": "2017-03-28 12:48:04",
+                    "rejected": false,
+                    "authorName": "大圣归来",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20160905_170654860426_435_avatar.png",
+                    "author_id": "314",
+                    "chargeable": true,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 21,
+                            "showUserFlag": false,
+                            "name": "竞单关",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "休息二天后【免费推送一场】今晚的世界杯2018亚洲赛，还有国际友谊赛【地雷炸弹】正式开始推送，每天精选推送，周二竟彩006 国际赛 让球胜负 比赛时间：00：00俄罗斯VS比利时主队的俄罗斯最近的近况",
+                    "omnCardValue": 0,
+                    "id": "297925",
+                    "matches": [
+                        {
+                            "entry_id": "116117",
+                            "away_team": "比利时",
+                            "start_time": "2017-03-29 00:00:00",
+                            "cup_name": "国际赛",
+                            "home_team": "俄罗斯"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 12:46:45",
+                    "price": "28",
+                    "date_added": "2017-03-28 12:46:45",
+                    "rejected": false,
+                    "authorName": "欧亚解密足彩专家",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/320675cb80b1e19f/20160507_154947127515_765_avatar.png",
+                    "author_id": "236",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "兄弟们，今天的第一场福利来了！精彩说独家签约分析师~~达哥比赛信息，2:00摩洛哥Vs突尼斯推荐玩法，亚盘让球胜负推荐分析，两队实力相当，但是交锋历史突尼斯占绝对优势，这场比赛既然被主队让出半球盘，那",
+                    "omnCardValue": 0,
+                    "id": "297919",
+                    "matches": [
+                        {
+                            "entry_id": "116534",
+                            "away_team": "几内亚",
+                            "start_time": "2017-03-29 02:00:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "喀麦隆"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 12:37:38",
+                    "price": "18",
+                    "date_added": "2017-03-28 12:37:38",
+                    "rejected": false,
+                    "authorName": "竞彩学者达哥",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20160706_163319709254_671_avatar.jpg",
+                    "author_id": "292",
+                    "chargeable": true,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "赛事：亚洲预选 乌兹别克斯坦 vs 卡塔尔 3-28 21:00赛事分析：本场澳彩初盘0.88 半球球 0.94，标盘1.85 3.10 3.95，其它公司初盘多数开出半球高水，对比之下，澳彩水位偏",
+                    "omnCardValue": 0,
+                    "id": "297914",
+                    "matches": [
+                        {
+                            "entry_id": "116115",
+                            "away_team": "卡塔尔",
+                            "start_time": "2017-03-28 21:00:00",
+                            "cup_name": "世预赛",
+                            "home_team": "乌兹别克斯坦"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 12:27:02",
+                    "price": "",
+                    "date_added": "2017-03-28 12:27:02",
+                    "rejected": false,
+                    "authorName": "太极足球",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170322_102124310521_597_avatar.jpg",
+                    "author_id": "545",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "赛事：亚洲预选 伊朗 vs中国 3-28 20:00赛事分析：本场澳彩初盘1.06 一球 0.76，标盘1.53 3.60 5.40，对比其它公司，澳彩水位偏高，初盘强开高水一球，从让盘强度来看能反",
+                    "omnCardValue": 0,
+                    "id": "297901",
+                    "matches": [
+                        {
+                            "entry_id": "116114",
+                            "away_team": "中国",
+                            "start_time": "2017-03-28 20:00:00",
+                            "cup_name": "世预赛",
+                            "home_team": "伊朗"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 11:39:52",
+                    "price": "",
+                    "date_added": "2017-03-28 11:39:52",
+                    "rejected": false,
+                    "authorName": "太极足球",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170322_102124310521_597_avatar.jpg",
+                    "author_id": "545",
+                    "chargeable": true,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 26,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "私信回复“金手指”可获66元重点单，近48小时内13中12，这仅是近48小时战绩而已，红单远不止于此。进驻精彩说8天收米7天，详细战绩兄弟们可以关注看看。虽然加藤先生没有【英国料】，也没有【美国料】，",
+                    "omnCardValue": 0,
+                    "id": "297899",
+                    "matches": [],
+                    "last_modified": "2017-03-28 11:36:46",
+                    "price": "8",
+                    "date_added": "2017-03-28 11:36:46",
+                    "rejected": false,
+                    "authorName": "加藤先生",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170320_182949848262_396_avatar.png",
+                    "author_id": "539",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "昨晚推荐2场阿甲全红收米，最近2天豪取三连红，状态稳定。朋友们是时候点一波关注啦！今晚欧预赛国足能否全身而退呢?关注我，及时了解更多精彩推荐。",
+                    "omnCardValue": 0,
+                    "id": "297887",
+                    "matches": [],
+                    "last_modified": "2017-03-28 11:01:21",
+                    "price": "",
+                    "date_added": "2017-03-28 11:01:21",
+                    "rejected": false,
+                    "authorName": "竞彩橙子",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170325_114019798484_582_avatar.png",
+                    "author_id": "548",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "大家好！昨天早场的俄甲客队被90分钟绝杀好郁闷。好在晚上免费分享的土耳其3:1上盘稳稳命中，另外付费打包的两场阿甲也成功命中拿下，整体4场取得3红1黑的佳绩，胜率75%！",
+                    "omnCardValue": 0,
+                    "id": "297876",
+                    "matches": [],
+                    "last_modified": "2017-03-28 10:38:04",
+                    "price": "18",
+                    "date_added": "2017-03-28 10:38:04",
+                    "rejected": false,
+                    "authorName": "拆盘专家",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/1840dd4687a0f59e/20161023_134100339261_815_avatar.jpg",
+                    "author_id": "349",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "周一还不错，目前打完的比赛，9红1走4黑，收米没问题。接下来的10:30NBA已推荐，欢迎大家进来一起收米。",
+                    "omnCardValue": 0,
+                    "id": "297863",
+                    "matches": [],
+                    "last_modified": "2017-03-28 10:27:18",
+                    "price": "18",
+                    "date_added": "2017-03-28 10:27:18",
+                    "rejected": false,
+                    "authorName": "发哥",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/435665cb18be43cc/20160305_124033386371_798_avatar.jpg",
+                    "author_id": "172",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 6,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "🎃点灯时间到！免费推荐一场比赛。🎉【10:30 NBA 灰熊vs国王 场次 私信老K可获得 第一节单节双推福利】 现在推荐全场大小分玩法。NBA 10:30 孟菲斯灰熊vs萨克拉门托国王推荐玩法:大",
+                    "omnCardValue": 0,
+                    "id": "297787",
+                    "matches": [
+                        {
+                            "entry_id": "115710",
+                            "away_team": "孟菲斯灰熊",
+                            "start_time": "2017-03-28 10:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "萨克拉门托国王"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 09:24:28",
+                    "price": "18",
+                    "date_added": "2017-03-28 09:24:28",
+                    "rejected": false,
+                    "authorName": "菠菜K",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170205_110927943837_527_avatar.jpg",
+                    "author_id": "393",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【免费NBA推荐+重心赛事预告】赛事信息 2017/3/28 NBA 8:30 雷霆vs小牛推荐玩法 亚盘大小分玩法赛事分析 小牛的主场5场小分1场大分，本场的盘口对于两队交战历史来看属于高开，小分介",
+                    "omnCardValue": 0,
+                    "id": "297752",
+                    "matches": [
+                        {
+                            "entry_id": "115709",
+                            "away_team": "俄克拉荷马城雷霆",
+                            "start_time": "2017-03-28 08:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "达拉斯小牛"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 08:27:42",
+                    "price": "18",
+                    "date_added": "2017-03-28 08:27:42",
+                    "rejected": false,
+                    "authorName": "SKY盈利计划",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/e32dbee7864a7c28/20160509_192535408859_61_avatar.jpg",
+                    "author_id": "259",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "2017年福彩3D第80期的预测:胆码3,和值看12,关注309。祝大家天天开心快乐！今天会有好运气👍！",
+                    "omnCardValue": 0,
+                    "id": "297734",
+                    "matches": [],
+                    "last_modified": "2017-03-28 08:09:58",
+                    "price": "",
+                    "date_added": "2017-03-28 08:09:58",
+                    "rejected": false,
+                    "authorName": "福彩达人",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161201_191432373388_771_avatar.jpg",
+                    "author_id": "381",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "【NBA重心】：尼克斯VS活塞，第四节盘口，第四节开始前均可解锁 小牛VS雷霆 ， 全场盘口，开场前解锁另外给大家带来一场免费福利NBA：国王VS灰熊。国王在交易考辛斯后，球队进入重建",
+                    "omnCardValue": 0,
+                    "id": "297731",
+                    "matches": [
+                        {
+                            "entry_id": "115710",
+                            "away_team": "孟菲斯灰熊",
+                            "start_time": "2017-03-28 10:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "萨克拉门托国王"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 08:07:06",
+                    "price": "8",
+                    "date_added": "2017-03-28 08:07:06",
+                    "rejected": false,
+                    "authorName": "黑猫",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/5f88f151d43af906/20160505_173056285841_968_avatar.jpg",
+                    "author_id": "248",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "彩友们早上好！2017年福彩3D第79期开奖号码是:487，大小比2:1，奇偶比1:2，跨度是4。恭喜你中奖！",
+                    "omnCardValue": 0,
+                    "id": "297728",
+                    "matches": [],
+                    "last_modified": "2017-03-28 08:03:43",
+                    "price": "",
+                    "date_added": "2017-03-28 08:03:43",
+                    "rejected": false,
+                    "authorName": "福彩达人",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161201_191432373388_771_avatar.jpg",
+                    "author_id": "381",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【NBA美职男精选赛事】 赛事信息：2017/3/28 07:30 底特律活塞 VS 纽约尼克斯推荐玩法：篮彩亚盘让分胜负 【赛事分析】： 【主队】：尼克斯近来已吞下5连败，球队状",
+                    "omnCardValue": 0,
+                    "id": "297706",
+                    "matches": [
+                        {
+                            "entry_id": "115706",
+                            "away_team": "底特律活塞",
+                            "start_time": "2017-03-28 07:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "纽约尼克斯"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 07:20:52",
+                    "price": "18",
+                    "date_added": "2017-03-28 07:20:52",
+                    "rejected": false,
+                    "authorName": "精彩解盘",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170208_184604795741_491_avatar.jpg",
+                    "author_id": "474",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "今天福利一场焦点战 8:00 圣安东尼奥马刺 v 克里夫兰骑士。分析：目前骑士战绩已经与特人无胜场差，若本场输球将跌至第二。马刺方面已无欲无求，追勇士的最佳时机已错过，基本无望。盘口方面，机构以主让4",
+                    "omnCardValue": 0,
+                    "id": "297703",
+                    "matches": [
+                        {
+                            "entry_id": "116104",
+                            "away_team": "克利夫兰骑士",
+                            "start_time": "2017-03-28 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "圣安东尼奥马刺"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 06:49:51",
+                    "price": "8",
+                    "date_added": "2017-03-28 06:49:51",
+                    "rejected": false,
+                    "authorName": "亚盘专攻",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/70351cc9276feb85/20161114_201642394960_648_avatar.jpg",
+                    "author_id": "255",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "03-28 07:30 NBA 纽约尼克斯 VS 底特律活塞两队最近状态一般，都遭遇连败。活塞如今已经离季候赛越来越远。尼克斯在上一场客场输给了马刺8分，过去四场比赛三场赢盘，因此结合临场各项数据，看",
+                    "omnCardValue": 0,
+                    "id": "297702",
+                    "matches": [
+                        {
+                            "entry_id": "115706",
+                            "away_team": "底特律活塞",
+                            "start_time": "2017-03-28 07:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "纽约尼克斯"
+                        },
+                        {
+                            "entry_id": "115707",
+                            "away_team": "奥兰多魔术",
+                            "start_time": "2017-03-28 07:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "多伦多猛龙"
+                        },
+                        {
+                            "entry_id": "115709",
+                            "away_team": "俄克拉荷马城雷霆",
+                            "start_time": "2017-03-28 08:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "达拉斯小牛"
+                        },
+                        {
+                            "entry_id": "116104",
+                            "away_team": "克利夫兰骑士",
+                            "start_time": "2017-03-28 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "圣安东尼奥马刺"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 06:47:00",
+                    "price": "18",
+                    "date_added": "2017-03-28 06:47:00",
+                    "rejected": false,
+                    "authorName": "发哥",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/435665cb18be43cc/20160305_124033386371_798_avatar.jpg",
+                    "author_id": "172",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "赛事信息：2017/03/28 10:30 国王vs灰熊推茬玩法：亚盘让分胜负玩法比赛分析：已经三个客场三连败的灰熊名次已经掉到第七位，此战碰上国王肯定不会放过这场十拿九稳的胜局，本赛季前三场交手灰熊",
+                    "omnCardValue": 0,
+                    "id": "297674",
+                    "matches": [
+                        {
+                            "entry_id": "115710",
+                            "away_team": "孟菲斯灰熊",
+                            "start_time": "2017-03-28 10:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "萨克拉门托国王"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 02:20:43",
+                    "price": "",
+                    "date_added": "2017-03-28 02:20:43",
+                    "rejected": false,
+                    "authorName": "刚哥",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170313_163734937511_560_avatar.jpg",
+                    "author_id": "531",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "今晚就不发私信了，时间太晚，今晚送出一场【黄金胆】级别的比赛，07:30，猛龙VS魔术，让分玩法！猛龙最近已经五连胜，而且主场战绩渐趋稳定，而魔术则继续摆烂，客场经常会遭遇连败，但是在如此大的对比下，",
+                    "omnCardValue": 0,
+                    "id": "297647",
+                    "matches": [
+                        {
+                            "entry_id": "115707",
+                            "away_team": "奥兰多魔术",
+                            "start_time": "2017-03-28 07:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "多伦多猛龙"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 01:03:42",
+                    "price": "8",
+                    "date_added": "2017-03-28 01:03:42",
+                    "rejected": false,
+                    "authorName": "赔率精算师",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161026_122136576726_379_avatar.jpg",
+                    "author_id": "352",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "2:45—意大利职业联赛— 阿雷素 VS. 比士托尔斯玩法：亚盘大小球 两队最近状态都不好，进球比较少。亚盘开出2.25球的大小盘，盘赔方面大球水位居高，庄家对两队进攻能力信心不足，跟庄走一手。",
+                    "omnCardValue": 0,
+                    "id": "297627",
+                    "matches": [
+                        {
+                            "entry_id": "115933",
+                            "away_team": "比斯托伊斯",
+                            "start_time": "2017-03-28 02:45:00",
+                            "cup_name": "意丙1A",
+                            "home_team": "阿雷佐"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 00:48:49",
+                    "price": "18",
+                    "date_added": "2017-03-28 00:48:49",
+                    "rejected": false,
+                    "authorName": "发哥",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/435665cb18be43cc/20160305_124033386371_798_avatar.jpg",
+                    "author_id": "172",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "公推一场！不求关注！只求精准！2017.3.28.1:00《丹麦甲》LFA尼克宾（主队）vs 文德斯尔基本面：1.主队冬歇期后3战2负1胜，攻击力是足够，但防守疲软，漏洞较大！特别是客场作战时，表现更",
+                    "omnCardValue": 0,
+                    "id": "297587",
+                    "matches": [
+                        {
+                            "entry_id": "115889",
+                            "away_team": "文德斯尔",
+                            "start_time": "2017-03-28 01:00:00",
+                            "cup_name": "丹麦甲",
+                            "home_team": "LFA尼克宾"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 00:16:53",
+                    "price": "18",
+                    "date_added": "2017-03-28 00:16:53",
+                    "rejected": false,
+                    "authorName": "冷门球圣",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/1840dd4687a0f59e/20161031_214951865204_406_avatar.jpg",
+                    "author_id": "359",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "一场阿甲献给大家。比赛时间：2017/03.28/08:15比赛场次：塔勒瑞斯vs奥林匹奥联赛：阿甲推荐玩法：亚盘大小盘分析理由：明天早上8点15的比赛，跨度实在是大。本场就简单分析了，主队主场攻击力",
+                    "omnCardValue": 0,
+                    "id": "297567",
+                    "matches": [
+                        {
+                            "entry_id": "115705",
+                            "away_team": "奥林匹奥",
+                            "start_time": "2017-03-28 08:15:00",
+                            "cup_name": "阿甲",
+                            "home_team": "铁路工场"
+                        }
+                    ],
+                    "last_modified": "2017-03-28 00:05:49",
+                    "price": "",
+                    "date_added": "2017-03-28 00:05:49",
+                    "rejected": false,
+                    "authorName": "专属坏人",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/9b1e47ec1bcda7fd/20170125_121128387697_918_avatar.jpg",
+                    "author_id": "457",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "📖私信回复“如来神掌”可获88元NBA重点单子，今夜我们关键词就两个字：“野鸡”，接下来带来一场免费福利野鸡篮球，不容错过。12点30，VTB联合赛，希姆基vs莫斯科中央陆军本场比赛，希姆基主场对阵莫",
+                    "omnCardValue": 0,
+                    "id": "297557",
+                    "matches": [
+                        {
+                            "entry_id": "115739",
+                            "away_team": "莫斯科中央陆军",
+                            "start_time": "2017-03-28 00:30:00",
+                            "cup_name": "VTB杯",
+                            "home_team": "其姆奇"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:59:11",
+                    "price": "18",
+                    "date_added": "2017-03-27 23:59:11",
+                    "rejected": false,
+                    "authorName": "推了个球",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170106_200826654008_504_avatar.png",
+                    "author_id": "433",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【国际友谊赛★★★★信心单】 赛事信息：2017/3/28 02:00 科特迪瓦 VS 塞内加尔推荐玩法：足彩亚盘让分胜负 【赛事分析】： 【主队】：科特迪瓦整体防守能力出色，球队",
+                    "omnCardValue": 0,
+                    "id": "297556",
+                    "matches": [
+                        {
+                            "entry_id": "115928",
+                            "away_team": "塞内加尔",
+                            "start_time": "2017-03-28 02:00:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "科特迪瓦"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:58:39",
+                    "price": "18",
+                    "date_added": "2017-03-27 23:58:39",
+                    "rejected": false,
+                    "authorName": "精彩解盘",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170208_184604795741_491_avatar.jpg",
+                    "author_id": "474",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【国际友谊赛分享】00:15 土耳其VS摩尔多瓦这几天准强队打鱼腩都获得了不错的成绩，昨天捷克开局就三球确实让大家对上盘产生了好感，今天土耳其对阵摩尔多瓦的一场友谊赛，想起土耳其大家第一想到的是国安的",
+                    "omnCardValue": 0,
+                    "id": "297555",
+                    "matches": [
+                        {
+                            "entry_id": "115879",
+                            "away_team": "摩尔多瓦",
+                            "start_time": "2017-03-28 00:15:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "土耳其"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:58:03",
+                    "price": "8",
+                    "date_added": "2017-03-27 23:58:03",
+                    "rejected": false,
+                    "authorName": "退休老精算",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/2cb58e7c65350795/20160504_110054732323_702_avatar.jpg",
+                    "author_id": "243",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【主推赛事★★★★★】 【08.15阿根廷甲组联赛】 【塔勒瑞斯VS奥林匹奥】 【亚盘让球胜负+波胆】以上这场塔勒瑞斯欢迎解锁。 以下乃是福利单！【免费福利】阿甲06.00萨斯菲VS飓风。亚盘让球胜负",
+                    "omnCardValue": 0,
+                    "id": "297553",
+                    "matches": [
+                        {
+                            "entry_id": "115704",
+                            "away_team": "飓风",
+                            "start_time": "2017-03-28 06:00:00",
+                            "cup_name": "阿甲",
+                            "home_team": "萨斯菲尔德"
+                        },
+                        {
+                            "entry_id": "115705",
+                            "away_team": "奥林匹奥",
+                            "start_time": "2017-03-28 08:15:00",
+                            "cup_name": "阿甲",
+                            "home_team": "铁路工场"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:57:15",
+                    "price": "8",
+                    "date_added": "2017-03-27 23:57:15",
+                    "rejected": false,
+                    "authorName": "风吹鸡蛋壳",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161122_120000114682_909_avatar.jpg",
+                    "author_id": "324",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "赛事信息;2017\\03\\28 07.30 猛龙VS魔术推荐玩法；亚盘大小分玩法赛事分析；猛龙最近状态爆发，5连胜了，4次赢盘一次输盘，3次小分。两次大分，在主场都大的很大的分，猛龙排在东部第4，落后",
+                    "omnCardValue": 0,
+                    "id": "297549",
+                    "matches": [
+                        {
+                            "entry_id": "115707",
+                            "away_team": "奥兰多魔术",
+                            "start_time": "2017-03-28 07:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "多伦多猛龙"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:54:30",
+                    "price": "",
+                    "date_added": "2017-03-27 23:54:30",
+                    "rejected": false,
+                    "authorName": "刚哥",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170313_163734937511_560_avatar.jpg",
+                    "author_id": "531",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 8,
+                            "showUserFlag": false,
+                            "name": "直播",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "波兰U21 VS 捷克U21本场双方实力势均力敌，现在上半场进行到44分钟，上半场马上结束，目前大小球盘口是1/1.5球，看好全场小于1/1.5球的亚盘小球。推荐：亚盘大小球（全场小于1/1.5球）",
+                    "omnCardValue": 0,
+                    "id": "297544",
+                    "matches": [
+                        {
+                            "entry_id": "115870",
+                            "away_team": "捷克U21",
+                            "start_time": "2017-03-27 23:00:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "波兰U21"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:50:05",
+                    "price": "",
+                    "date_added": "2017-03-27 23:50:05",
+                    "rejected": false,
+                    "authorName": "Angelia",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170315_175724273302_955_avatar.jpg",
+                    "author_id": "525",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【今晚免费推荐加赛事推荐预告在此！】【今天教授晚上状态出色，赶紧去解锁，别错过！】【VTB杯，犹里卡斯 VS 萨拉托夫，0点，全场盘口和第一节推荐发出】【VTB杯，其姆奇 VS 莫斯科中央陆军，0点3",
+                    "omnCardValue": 0,
+                    "id": "297526",
+                    "matches": [
+                        {
+                            "entry_id": "115707",
+                            "away_team": "奥兰多魔术",
+                            "start_time": "2017-03-28 07:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "多伦多猛龙"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:44:57",
+                    "price": "8",
+                    "date_added": "2017-03-27 23:44:57",
+                    "rejected": false,
+                    "authorName": "教授篮球",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20160623_114627597773_872_avatar.png",
+                    "author_id": "286",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【国际友谊赛★★★★信心单】 赛事信息：2017/3/28 00:15 土耳其 VS 摩尔多瓦推荐玩法：篮彩亚盘让分胜负 【赛事分析】： 【主队】：土耳其上场世预赛主场2比0战胜",
+                    "omnCardValue": 0,
+                    "id": "297522",
+                    "matches": [
+                        {
+                            "entry_id": "115879",
+                            "away_team": "摩尔多瓦",
+                            "start_time": "2017-03-28 00:15:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "土耳其"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:43:46",
+                    "price": "18",
+                    "date_added": "2017-03-27 23:43:46",
+                    "rejected": false,
+                    "authorName": "精彩解盘",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170208_184604795741_491_avatar.jpg",
+                    "author_id": "474",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 21,
+                            "showUserFlag": false,
+                            "name": "竞单关",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【免费福利稳胆】阿甲 06:00 萨斯菲vs飓风 竞彩推荐：主胜 亚盘推荐：萨斯菲-0.5本场不看好飓风能赢，最多只会打平，但是考虑飓风的客场能力较差，博取主队取胜。 今天竞彩就两场，不打算收费",
+                    "omnCardValue": 0,
+                    "id": "297520",
+                    "matches": [
+                        {
+                            "entry_id": "115704",
+                            "away_team": "飓风",
+                            "start_time": "2017-03-28 06:00:00",
+                            "cup_name": "阿甲",
+                            "home_team": "萨斯菲尔德"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:43:15",
+                    "price": "8",
+                    "date_added": "2017-03-27 23:43:15",
+                    "rejected": false,
+                    "authorName": "竞彩杰哥",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/e52e7aca53a27891/20160509_233730765235_957_avatar.jpg",
+                    "author_id": "260",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "00:00 友谊赛 瑞典 U21-捷克 U20 推荐理由：瑞典U21在欧青赛的场均进球达到2个，并且防守也不算好，而捷克U20的战绩很差，本场亚盘升盘到1.25盘，大小球升到3球盘82水位，看",
+                    "omnCardValue": 0,
+                    "id": "297473",
+                    "matches": [
+                        {
+                            "entry_id": "115878",
+                            "away_team": "捷克U20",
+                            "start_time": "2017-03-28 00:00:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "瑞典U21"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:23:26",
+                    "price": "8",
+                    "date_added": "2017-03-27 23:23:26",
+                    "rejected": false,
+                    "authorName": "亚盘王",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b61f3fbf4294d8a7/20160315_130216299222_569_avatar.jpg",
+                    "author_id": "179",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "3.27-【NBA-早盘分享】 今天同样看好一场NBA早场比赛，威少能否领军屠牛，让我们拭目而待！赛事信息：08:30【NBA】小牛 VS 雷霆推荐玩法：篮球（让分胜负）赛事分析：",
+                    "omnCardValue": 0,
+                    "id": "297471",
+                    "matches": [
+                        {
+                            "entry_id": "115709",
+                            "away_team": "俄克拉荷马城雷霆",
+                            "start_time": "2017-03-28 08:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "达拉斯小牛"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:23:02",
+                    "price": "18",
+                    "date_added": "2017-03-27 23:23:02",
+                    "rejected": false,
+                    "authorName": "电台王",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/7f85fcc9ca29d36a/20160405_192106133023_867_avatar.png",
+                    "author_id": "213",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【丹麦甲★★★★信心单】 赛事信息：2017/3/28 01:00 罗兰法斯特 VS 文德斯尔推荐玩法：足彩亚盘让分胜负 【赛事分析】： 【主队】：主队罗兰法斯特近况不理想，2胜",
+                    "omnCardValue": 0,
+                    "id": "297459",
+                    "matches": [
+                        {
+                            "entry_id": "115889",
+                            "away_team": "文德斯尔",
+                            "start_time": "2017-03-28 01:00:00",
+                            "cup_name": "丹麦甲",
+                            "home_team": "LFA尼克宾"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 23:18:53",
+                    "price": "38",
+                    "date_added": "2017-03-27 23:18:53",
+                    "rejected": false,
+                    "authorName": "精彩解盘",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170208_184604795741_491_avatar.jpg",
+                    "author_id": "474",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "公推篮球经历了一次黑单之后，继续霸气红单，回到红单正轨，明天的比赛，只推一场赛事信息:2017/3/28 NBA08:00 马刺VS骑士推荐玩法:马刺-4.5胜",
+                    "omnCardValue": 0,
+                    "id": "297417",
+                    "matches": [
+                        {
+                            "entry_id": "116104",
+                            "away_team": "克利夫兰骑士",
+                            "start_time": "2017-03-28 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "圣安东尼奥马刺"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:59:51",
+                    "price": "",
+                    "date_added": "2017-03-27 22:59:51",
+                    "rejected": false,
+                    "authorName": "彬心火舌",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170315_161633235320_868_avatar.png",
+                    "author_id": "534",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "今天足球比赛稀少，最后发一场。明天看好2场NBA，把握性挺大，不公推了，有需要的朋友可以私信，大家共同讨论。 丹麦甲 LFA尼克宾VS文德斯尔 3/28/01:00 排名主8客7，积分差2分，",
+                    "omnCardValue": 0,
+                    "id": "297403",
+                    "matches": [
+                        {
+                            "entry_id": "115889",
+                            "away_team": "文德斯尔",
+                            "start_time": "2017-03-28 01:00:00",
+                            "cup_name": "丹麦甲",
+                            "home_team": "LFA尼克宾"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:51:30",
+                    "price": "",
+                    "date_added": "2017-03-27 22:51:30",
+                    "rejected": false,
+                    "authorName": "球球杀手",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170224_145351699592_893_avatar.png",
+                    "author_id": "508",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【每日福利单】先来一单足球福利单，我不能带你装逼带你飞，只能带你稳稳的在路上收米。赛事信息： 6:00 阿甲 萨斯菲尔德vs飓风队推荐：亚盘分析：两支球队目前平分，飓风净胜球领先甚多，排",
+                    "omnCardValue": 0,
+                    "id": "297381",
+                    "matches": [
+                        {
+                            "entry_id": "115704",
+                            "away_team": "飓风",
+                            "start_time": "2017-03-28 06:00:00",
+                            "cup_name": "阿甲",
+                            "home_team": "萨斯菲尔德"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:43:19",
+                    "price": "8",
+                    "date_added": "2017-03-27 22:43:19",
+                    "rejected": false,
+                    "authorName": "风云再起",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20160812_105024554815_799_avatar.jpg",
+                    "author_id": "301",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "罗希姆诺VS奥林匹亚罗希姆诺本赛季阿根廷甲级联赛表现突出,球队上场比赛客场爆冷战胜了博卡青年,让人眼前一亮,球队最近10场比赛仅仅输了一场,如此好的状态,主流公司仅仅开出了主让客0.5球的局面,这多少",
+                    "omnCardValue": 0,
+                    "id": "297373",
+                    "matches": [
+                        {
+                            "entry_id": "115717",
+                            "away_team": "奥林匹亚科斯",
+                            "start_time": "2017-03-27 21:00:00",
+                            "cup_name": "希篮甲",
+                            "home_team": "罗希姆诺"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:40:44",
+                    "price": "",
+                    "date_added": "2017-03-27 22:40:44",
+                    "rejected": false,
+                    "authorName": "田明新",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170311_102533975068_65_avatar.jpg",
+                    "author_id": "529",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "今日比赛不多，送上NBA早场福利单！每日的福利单，只要【关注】我们，便可第一时间收到，更多福利不容错过！NBA 7点30 猛龙vs魔术猛龙东部第四，位置比较稳固。魔术东部第13，只有27胜，常规赛剩下",
+                    "omnCardValue": 0,
+                    "id": "297370",
+                    "matches": [
+                        {
+                            "entry_id": "115707",
+                            "away_team": "奥兰多魔术",
+                            "start_time": "2017-03-28 07:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "多伦多猛龙"
+                        },
+                        {
+                            "entry_id": "116104",
+                            "away_team": "克利夫兰骑士",
+                            "start_time": "2017-03-28 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "圣安东尼奥马刺"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:39:31",
+                    "price": "8",
+                    "date_added": "2017-03-27 22:39:31",
+                    "rejected": false,
+                    "authorName": "牛魔王",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170103_192449035406_222_avatar.jpg",
+                    "author_id": "333",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "竞彩001场次 萨斯菲尔德VS飓风萨斯菲尔德属于阿根廷甲级联赛的老牌劲旅,球队目前虽然排名26,但球队的实力不容小觑,特别是最近球队打出了主场三连胜的成绩.从目前主流公司的数据看,多数亚洲公司给出了主",
+                    "omnCardValue": 0,
+                    "id": "297367",
+                    "matches": [
+                        {
+                            "entry_id": "115704",
+                            "away_team": "飓风",
+                            "start_time": "2017-03-28 06:00:00",
+                            "cup_name": "阿甲",
+                            "home_team": "萨斯菲尔德"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:38:52",
+                    "price": "",
+                    "date_added": "2017-03-27 22:38:52",
+                    "rejected": false,
+                    "authorName": "田明新",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170311_102533975068_65_avatar.jpg",
+                    "author_id": "529",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "福利、福利、福利来啦！继续放血大放送！！【维密今夜继续大放送】推荐玩法：篮球亚盘让分玩法比赛信息：2017-3-28 骑士 vs 马刺 8:00小牛 vs 雷霆 8:30盘口分析：第一场 骑士",
+                    "omnCardValue": 0,
+                    "id": "297344",
+                    "matches": [
+                        {
+                            "entry_id": "115709",
+                            "away_team": "俄克拉荷马城雷霆",
+                            "start_time": "2017-03-28 08:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "达拉斯小牛"
+                        },
+                        {
+                            "entry_id": "116104",
+                            "away_team": "克利夫兰骑士",
+                            "start_time": "2017-03-28 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "圣安东尼奥马刺"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:26:57",
+                    "price": "",
+                    "date_added": "2017-03-27 22:26:57",
+                    "rejected": false,
+                    "authorName": "德维恩球场老大爷",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170325_123107800920_23_avatar.png",
+                    "author_id": "549",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "【看过有可能会红单的一段话】今天上午nba滚地又是两场连红结束战斗，回报率170%左右！王后在滚球方面展现出来大的实力和成绩让广大粉丝们惊呼和赞叹！不少人对于王后的滚球都很好奇。今天周一，借着比赛少，",
+                    "omnCardValue": 0,
+                    "id": "297337",
+                    "matches": [],
+                    "last_modified": "2017-03-27 22:19:29",
+                    "price": "8",
+                    "date_added": "2017-03-27 22:19:29",
+                    "rejected": false,
+                    "authorName": "足彩王后",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170304_142504808217_346_avatar.png",
+                    "author_id": "518",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "大家晚上好，今天打一场免费福利 赛事信息23：59 瑞典U21 SV 捷克U21 先看看两队战绩，主队瑞典 近5场赛事2胜2平1负，不过最近一场比赛0比2输给塞维利亚，球队表现有些不如人意，攻进端火力",
+                    "omnCardValue": 0,
+                    "id": "297331",
+                    "matches": [
+                        {
+                            "entry_id": "115878",
+                            "away_team": "捷克U20",
+                            "start_time": "2017-03-28 00:00:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "瑞典U21"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:14:30",
+                    "price": "28",
+                    "date_added": "2017-03-27 22:14:30",
+                    "rejected": false,
+                    "authorName": "足彩三哥",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170309_172409568016_743_avatar.jpg",
+                    "author_id": "390",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【骏哥每日公推NBA稳胆】继续带来一枚明日NBA稳胆，明日重心NBA五星胆已发布，欢迎解锁！赛事信息：3.28 8:30 达拉斯小牛VS俄克拉荷马雷霆赛事分析：基本面分析今天雷霆的表现确实不太好，他们",
+                    "omnCardValue": 0,
+                    "id": "297326",
+                    "matches": [
+                        {
+                            "entry_id": "115709",
+                            "away_team": "俄克拉荷马城雷霆",
+                            "start_time": "2017-03-28 08:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "达拉斯小牛"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:10:01",
+                    "price": "18",
+                    "date_added": "2017-03-27 22:10:01",
+                    "rejected": false,
+                    "authorName": "骏哥爆庄",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170211_180428194523_400_avatar.png",
+                    "author_id": "481",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "周一002 阿甲 塔勒瑞斯VS奥林匹奥 开赛时间：2017-03-28 星期二 8:15 SB亚盘：0.85 半球 1.03 &gt;0.83 半球 1.07 威廉希尔：1.80 3.00 5.0",
+                    "omnCardValue": 0,
+                    "id": "297316",
+                    "matches": [
+                        {
+                            "entry_id": "115705",
+                            "away_team": "奥林匹奥",
+                            "start_time": "2017-03-28 08:15:00",
+                            "cup_name": "阿甲",
+                            "home_team": "铁路工场"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 22:00:51",
+                    "price": "",
+                    "date_added": "2017-03-27 22:00:51",
+                    "rejected": false,
+                    "authorName": "竞彩橙子",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170325_114019798484_582_avatar.png",
+                    "author_id": "548",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 6,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "3.27-【阿甲-免费分享】 今天足球场次较少，选择了其中一场阿甲分享给大家，同路跟上。也可趁机会调整一下状态，准备迎接明天的亚洲预选赛！赛事信息：08:15【阿甲】铁路工场 VS 奥林匹",
+                    "omnCardValue": 0,
+                    "id": "297307",
+                    "matches": [
+                        {
+                            "entry_id": "115705",
+                            "away_team": "奥林匹奥",
+                            "start_time": "2017-03-28 08:15:00",
+                            "cup_name": "阿甲",
+                            "home_team": "铁路工场"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 21:56:34",
+                    "price": "18",
+                    "date_added": "2017-03-27 21:56:34",
+                    "rejected": false,
+                    "authorName": "电台王",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/7f85fcc9ca29d36a/20160405_192106133023_867_avatar.png",
+                    "author_id": "213",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【友谊赛推荐】2017-03-19 22:00 友谊赛 土耳其vs摩尔多瓦推荐玩法：单场亚盘让球玩法土耳其今非昔比，球队早已不是当年的黄金一代，除了个别球员表现不错，整体实力在欧洲最多算是二",
+                    "omnCardValue": 0,
+                    "id": "297305",
+                    "matches": [
+                        {
+                            "entry_id": "115879",
+                            "away_team": "摩尔多瓦",
+                            "start_time": "2017-03-28 00:15:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "土耳其"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 21:55:37",
+                    "price": "",
+                    "date_added": "2017-03-27 21:55:37",
+                    "rejected": false,
+                    "authorName": "司马青鹏",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161013_210239176098_125_avatar.png",
+                    "author_id": "343",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "周一001 阿甲 萨斯菲尔德VS飓风队 开赛时间：2017-03-28 星期二 6:00SB亚盘：0.85 平手/半球 1.03 &gt;0.82 平手/半球 1.08 威廉希尔：2.15 3.00",
+                    "omnCardValue": 0,
+                    "id": "297303",
+                    "matches": [
+                        {
+                            "entry_id": "115704",
+                            "away_team": "飓风",
+                            "start_time": "2017-03-28 06:00:00",
+                            "cup_name": "阿甲",
+                            "home_team": "萨斯菲尔德"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 21:55:03",
+                    "price": "",
+                    "date_added": "2017-03-27 21:55:03",
+                    "rejected": false,
+                    "authorName": "竞彩橙子",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170325_114019798484_582_avatar.png",
+                    "author_id": "548",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "00:00 友谊赛 瑞士U20(主) vs 德国U20推荐玩法 ：亚盘推荐赛事分析 ：本场是两队最近的第二次交手，3.24日德国主场1-0收场，现在是两队在瑞士主场进行比赛，初盘德国让0.75，盘口",
+                    "omnCardValue": 0,
+                    "id": "297296",
+                    "matches": [
+                        {
+                            "entry_id": "115872",
+                            "away_team": "德国U20",
+                            "start_time": "2017-03-28 00:00:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "瑞士U20"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 21:52:53",
+                    "price": "1",
+                    "date_added": "2017-03-27 21:52:53",
+                    "rejected": false,
+                    "authorName": "亚盘王",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b61f3fbf4294d8a7/20160315_130216299222_569_avatar.jpg",
+                    "author_id": "179",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "乌拉嘿！乌拉嘿！乌拉，乌拉嘿！维密推荐：篮球亚盘让分盘比赛信息：2017-3-28 猛龙VS魔术 7:30盘口分析：【老大爷密料】现在的猛龙真的很强，德罗赞单核带队，打出了一波五连胜，早早的锁定了",
+                    "omnCardValue": 0,
+                    "id": "297292",
+                    "matches": [
+                        {
+                            "entry_id": "115707",
+                            "away_team": "奥兰多魔术",
+                            "start_time": "2017-03-28 07:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "多伦多猛龙"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 21:50:42",
+                    "price": "",
+                    "date_added": "2017-03-27 21:50:42",
+                    "rejected": false,
+                    "authorName": "德维恩球场老大爷",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170325_123107800920_23_avatar.png",
+                    "author_id": "549",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "数学哥最近战绩如下：私信数学哥！送价值88精彩币核弹一枚~~~机会难得，不可错过！！数学哥最近几天的核弹还是不错！昨天战绩不佳，今天数学哥精选了几单NBA送给大家！希望大家喜欢！实弹战绩如下！！以往战",
+                    "omnCardValue": 0,
+                    "id": "297278",
+                    "matches": [],
+                    "last_modified": "2017-03-27 21:42:54",
+                    "price": "8",
+                    "date_added": "2017-03-27 21:42:54",
+                    "rejected": false,
+                    "authorName": "足彩与数学",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/70351cc9276feb85/20160701_180830048070_49_avatar.png",
+                    "author_id": "290",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 21,
+                            "showUserFlag": false,
+                            "name": "竞单关",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "竞彩推荐 世亚预 星期一 日本VS泰国比赛时间：2017-3-18 18:35 在世亚预的赛场上泰国客场战绩不佳，日本坐镇主场迎战处于劣势的泰国，实力兼状态俱佳的日本胜券在握。从历史战绩来看，两队",
+                    "omnCardValue": 0,
+                    "id": "297259",
+                    "matches": [
+                        {
+                            "entry_id": "116112",
+                            "away_team": "泰国",
+                            "start_time": "2017-03-28 18:35:00",
+                            "cup_name": "世预赛",
+                            "home_team": "日本"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 21:35:39",
+                    "price": "",
+                    "date_added": "2017-03-27 21:35:39",
+                    "rejected": false,
+                    "authorName": "伊人荐彩",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170101_231505489999_285_avatar.jpg",
+                    "author_id": "424",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 21,
+                            "showUserFlag": false,
+                            "name": "竞单关",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "竞彩推荐 世亚预 星期一 乌兹别克斯坦VS卡塔尔比赛时间：2017-3-28 21:00 乌兹别克斯坦占据主场优势，实力又远超弱旅卡塔尔，往绩上乌兹别克斯坦占上风。再有乌兹别克斯坦上",
+                    "omnCardValue": 0,
+                    "id": "297223",
+                    "matches": [
+                        {
+                            "entry_id": "116115",
+                            "away_team": "卡塔尔",
+                            "start_time": "2017-03-28 21:00:00",
+                            "cup_name": "世预赛",
+                            "home_team": "乌兹别克斯坦"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 21:12:04",
+                    "price": "",
+                    "date_added": "2017-03-27 21:12:04",
+                    "rejected": false,
+                    "authorName": "伊人荐彩",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170101_231505489999_285_avatar.jpg",
+                    "author_id": "424",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "比赛信息：2017.03.28 美职篮 8：00圣安东尼奥马刺VS克利夫兰骑士推荐玩法：竞彩让分1. 现在的骑士日子并不好过，凯子一群年轻人凭着一股冲劲已经开始威胁到他们的东部第一的位置了，并不是",
+                    "omnCardValue": 0,
+                    "id": "297136",
+                    "matches": [
+                        {
+                            "entry_id": "116104",
+                            "away_team": "克利夫兰骑士",
+                            "start_time": "2017-03-28 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "圣安东尼奥马刺"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 19:54:41",
+                    "price": "18",
+                    "date_added": "2017-03-27 19:54:41",
+                    "rejected": false,
+                    "authorName": "特雷西-yao",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20161229_183129096782_273_avatar.png",
+                    "author_id": "422",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 21,
+                            "showUserFlag": false,
+                            "name": "竞单关",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【重磅福利推荐】今晚私信“爆红”，即可获得明日一场NBA稳胆推荐，快快行动起来吧！赛事信息：002 阿甲 8:15 塔勒瑞斯VS奥林匹奥推荐玩法：竞彩让球玩法赛事分析：主队作为升班马本赛季表现非常好，",
+                    "omnCardValue": 0,
+                    "id": "297124",
+                    "matches": [
+                        {
+                            "entry_id": "115705",
+                            "away_team": "奥林匹奥",
+                            "start_time": "2017-03-28 08:15:00",
+                            "cup_name": "阿甲",
+                            "home_team": "铁路工场"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 19:46:44",
+                    "price": "18",
+                    "date_added": "2017-03-27 19:46:44",
+                    "rejected": false,
+                    "authorName": "盖伦足彩",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170107_174819033749_862_avatar.png",
+                    "author_id": "438",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 13,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "📖私信回复“如来神掌”可获88元NBA重点单子，今夜我们关键词就两个字：“野鸡”，周末27中19，今天会更给力，新的一周，新的开始，过去的红不是红，下一个红的就是你！从8点两场野鸡开始新的收米旅程，还",
+                    "omnCardValue": 0,
+                    "id": "297122",
+                    "matches": [],
+                    "last_modified": "2017-03-27 19:39:24",
+                    "price": "18",
+                    "date_added": "2017-03-27 19:39:24",
+                    "rejected": false,
+                    "authorName": "推了个球",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170106_200826654008_504_avatar.png",
+                    "author_id": "433",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "今天推荐的复式号是:023569，135798",
+                    "omnCardValue": 0,
+                    "id": "297121",
+                    "matches": [],
+                    "last_modified": "2017-03-27 19:33:40",
+                    "price": "",
+                    "date_added": "2017-03-27 19:33:40",
+                    "rejected": false,
+                    "authorName": "福彩达人",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161201_191432373388_771_avatar.jpg",
+                    "author_id": "381",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "2017年福彩3D第79期试机号后的预测:和值看好10,11，14，15，关注803,425，825，823，805，409，463，841，843，460，802，806，807，541，641，9",
+                    "omnCardValue": 0,
+                    "id": "297117",
+                    "matches": [],
+                    "last_modified": "2017-03-27 19:30:58",
+                    "price": "",
+                    "date_added": "2017-03-27 19:30:58",
+                    "rejected": false,
+                    "authorName": "福彩达人",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161201_191432373388_771_avatar.jpg",
+                    "author_id": "381",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "活动名称：【数学免费胆】联赛名称：NBA比赛时间：3-28 07：30比赛场次：多伦多猛龙VS奥兰多魔术推荐玩法：亚盘+竞彩多伦多猛龙VS奥兰多魔术今天足球基本没有比赛了，只有两场阿甲的比赛！就不强推",
+                    "omnCardValue": 0,
+                    "id": "297112",
+                    "matches": [
+                        {
+                            "entry_id": "115707",
+                            "away_team": "奥兰多魔术",
+                            "start_time": "2017-03-28 07:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "多伦多猛龙"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 19:27:47",
+                    "price": "8",
+                    "date_added": "2017-03-27 19:27:47",
+                    "rejected": false,
+                    "authorName": "足彩与数学",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/70351cc9276feb85/20160701_180830048070_49_avatar.png",
+                    "author_id": "290",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "周一303 美职篮 [客] 克利夫兰骑士 1.75(-4.5)1.75[主] 圣安东尼奥马刺主队：赛季场均得105.32 失97.86主场：30胜 8负客队：赛季场均得109.87 失106.85",
+                    "omnCardValue": 0,
+                    "id": "297100",
+                    "matches": [
+                        {
+                            "entry_id": "116104",
+                            "away_team": "克利夫兰骑士",
+                            "start_time": "2017-03-28 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "圣安东尼奥马刺"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 19:15:54",
+                    "price": "8",
+                    "date_added": "2017-03-27 19:15:54",
+                    "rejected": false,
+                    "authorName": "winner球圣",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/6a63b20ce89968e1/20160318_215210326464_334_avatar.png",
+                    "author_id": "178",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【私信送福利】老规矩私信发送“88”，送上看好的一场国际友谊赛土耳其VS摩尔多瓦，赛前统一送出。现在先给大家来一单免费的U19的国际友谊赛推荐：赛事信息：2017/3/27 NBA 20:00 格鲁吉",
+                    "omnCardValue": 0,
+                    "id": "297095",
+                    "matches": [
+                        {
+                            "entry_id": "115815",
+                            "away_team": "俄罗斯U19",
+                            "start_time": "2017-03-27 20:00:00",
+                            "cup_name": "国际友谊",
+                            "home_team": "格鲁吉亚U19"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 19:06:55",
+                    "price": "8",
+                    "date_added": "2017-03-27 19:06:55",
+                    "rejected": false,
+                    "authorName": "足彩精算师",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170222_104810921091_254_avatar.png",
+                    "author_id": "491",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "私信回复66获取妹妹送出的重磅炸弹！昨晚起手就是世预赛三连红，火箭的速度！除了今天早上掘金有点遗憾，另外两场NBA（包括私信）也是妥妥收米，近48小时战绩8中6，昨天和今天的私信继续大红！妹妹这里虽然",
+                    "omnCardValue": 0,
+                    "id": "297091",
+                    "matches": [],
+                    "last_modified": "2017-03-27 18:55:06",
+                    "price": "18",
+                    "date_added": "2017-03-27 18:55:06",
+                    "rejected": false,
+                    "authorName": "懂球妹",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/9b1e47ec1bcda7fd/20170125_121350387607_190_avatar.jpg",
+                    "author_id": "460",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "战绩回顾：6红2黑1走，还算不错今天晚上继续，加油",
+                    "omnCardValue": 0,
+                    "id": "297086",
+                    "matches": [],
+                    "last_modified": "2017-03-27 18:41:27",
+                    "price": "8",
+                    "date_added": "2017-03-27 18:41:27",
+                    "rejected": false,
+                    "authorName": "黑猫",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/5f88f151d43af906/20160505_173056285841_968_avatar.jpg",
+                    "author_id": "248",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "兄弟们，继续杀！俄甲 坦波夫斯巴达vs叶尼塞3/27/18:00排名主11客8，近期战绩差不多。亚盘以主让平半高水开盘对主队有一定支持。根据欧赔公司返还差看，主胜差为负值，处于低位，易打出。必发市场，",
+                    "omnCardValue": 0,
+                    "id": "297066",
+                    "matches": [
+                        {
+                            "entry_id": "115798",
+                            "away_team": "叶尼塞",
+                            "start_time": "2017-03-27 19:00:00",
+                            "cup_name": "俄甲",
+                            "home_team": "坦波夫斯巴达"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 17:45:07",
+                    "price": "",
+                    "date_added": "2017-03-27 17:45:07",
+                    "rejected": false,
+                    "authorName": "球球杀手",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170224_145351699592_893_avatar.png",
+                    "author_id": "508",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【赛事回顾】昨晚的比赛，万球一共发出了四场比赛，只黑了一场比赛。其中挪威很遗憾，北爱尔兰主场优势很明显，2-0获胜，下半场全队防守，挪威狂攻无果，成为了昨晚唯一的黑单。至于丹麦这一场比赛，万球在推荐里",
+                    "omnCardValue": 0,
+                    "id": "297062",
+                    "matches": [],
+                    "last_modified": "2017-03-27 17:27:35",
+                    "price": "8",
+                    "date_added": "2017-03-27 17:27:35",
+                    "rejected": false,
+                    "authorName": "万球解说",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161030_221747490806_410_avatar.png",
+                    "author_id": "308",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "这是这个周末的战绩表，两天都是9中6，成绩相当理想。感谢所有跟单的兄弟。兄弟们，你们收米了吗？精算师的高质量推荐，就是要有你们的一直支持，才能一直坚持下去！精算师不会场场命中，但是会每天盈利，这就是深",
+                    "omnCardValue": 0,
+                    "id": "297052",
+                    "matches": [],
+                    "last_modified": "2017-03-27 17:06:45",
+                    "price": "8",
+                    "date_added": "2017-03-27 17:06:45",
+                    "rejected": false,
+                    "authorName": "赔率精算师",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161026_122136576726_379_avatar.jpg",
+                    "author_id": "352",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 5,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "丑妇终须见家翁，昨日13中5，黑了3个注红黑不藏，足球5中1，篮球8中4最近状态真的很低迷，八爷自己上个星期也是血亏今晚会继续免费发送，同路的继续跟上吧",
+                    "omnCardValue": 0,
+                    "id": "297012",
+                    "matches": [],
+                    "last_modified": "2017-03-27 15:05:41",
+                    "price": "18",
+                    "date_added": "2017-03-27 15:05:41",
+                    "rejected": false,
+                    "authorName": "八爷猛料",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170315_124304247368_556_avatar.jpg",
+                    "author_id": "530",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "天亮就收米，昨天足彩稳稳收大米，精选10场比赛，竞彩8红2黑，亚盘5红2黑3走水，实力推荐，不容错过，团队唯一目标带领大家收大米，只做最稳定的推荐，今晚比赛比较少，团队继续做最稳定的推荐，感谢大家支持",
+                    "omnCardValue": 0,
+                    "id": "297006",
+                    "matches": [],
+                    "last_modified": "2017-03-27 14:34:26",
+                    "price": "8",
+                    "date_added": "2017-03-27 14:34:26",
+                    "rejected": false,
+                    "authorName": "天亮就收米",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/85d99f637440358b/20160416_164626255185_197_avatar.jpg",
+                    "author_id": "224",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 17,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "私信福利几连红了?您满意吗?满意就请您留个赞吧。平台规定。我们只能低调的在首页晒出这两天的战绩。一会做个周总结，看看我们过去一周盈利了多少。惊不惊喜！意不意外！给不给力！",
+                    "omnCardValue": 0,
+                    "id": "297003",
+                    "matches": [],
+                    "last_modified": "2017-03-27 14:21:15",
+                    "price": "8",
+                    "date_added": "2017-03-27 14:21:15",
+                    "rejected": false,
+                    "authorName": "球行天下",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/9b1e47ec1bcda7fd/20161216_220308316216_500_avatar.jpg",
+                    "author_id": "408",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【专业足球收米，你值得信赖】近期一直爆红收米模式，近两天推荐7场中5场，亚盘7场4红1走；一天两天的红不算红，一整个月下来的红才是真正的红，我们最近一直处于开挂收米模式，点击御姐首页第二条有近30场战",
+                    "omnCardValue": 0,
+                    "id": "296996",
+                    "matches": [],
+                    "last_modified": "2017-03-27 13:34:56",
+                    "price": "18",
+                    "date_added": "2017-03-27 13:34:56",
+                    "rejected": false,
+                    "authorName": "御姐荐球",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20161217_180341033502_479_avatar.jpg",
+                    "author_id": "409",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 5,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "今天终于没比赛了，那就一起来吹牛吧：周末总体成绩勉强达标，想稳定7成命中率真心难，其中：14场NBA亚盘推荐12红2黑，命中率86%；12场预选赛亚盘推荐8红4黑，命中率67%；3场东亚足球联赛亚盘推",
+                    "omnCardValue": 0,
+                    "id": "296989",
+                    "matches": [],
+                    "last_modified": "2017-03-27 13:00:20",
+                    "price": "8",
+                    "date_added": "2017-03-27 13:00:20",
+                    "rejected": false,
+                    "authorName": "旺财看英超",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/a17a1d42583ef250/20160509_181715767876_311_avatar.jpg",
+                    "author_id": "258",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 7,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "私信回复“金手指”可获66元重点单，湖人小球也收了，近48小时内9中9，也没什么，只是一场都没有黑罢了。进驻精彩说7天收米6天，虽然加藤先生没有【英国料】，也没有【美国料】，但是有我足矣。今天是进驻精",
+                    "omnCardValue": 0,
+                    "id": "296988",
+                    "matches": [],
+                    "last_modified": "2017-03-27 12:56:50",
+                    "price": "8",
+                    "date_added": "2017-03-27 12:56:50",
+                    "rejected": false,
+                    "authorName": "加藤先生",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170320_182949848262_396_avatar.png",
+                    "author_id": "539",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 5,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 2,
+                            "showUserFlag": false,
+                            "name": "亚盘",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "阿甲第17轮迎来一场联赛下游球队的“6分之战”，2支阿根廷老牌球队会为我们带来怎样一场紧张对决呢？【比赛信息】对阵双方：萨斯菲尔德VS飓风赛事阶段：阿根廷足球甲级联赛常规赛春季联赛第17轮开赛时间：",
+                    "omnCardValue": 0,
+                    "id": "296987",
+                    "matches": [
+                        {
+                            "entry_id": "115704",
+                            "away_team": "飓风",
+                            "start_time": "2017-03-28 06:00:00",
+                            "cup_name": "阿甲",
+                            "home_team": "萨斯菲尔德"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 12:51:10",
+                    "price": "8",
+                    "date_added": "2017-03-27 12:51:10",
+                    "rejected": false,
+                    "authorName": "人杰足彩",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161124_171732793037_835_avatar.jpg",
+                    "author_id": "375",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 7,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【人杰足彩大讲堂】昨日推荐12场，7红1走4黑，盈利3场，人杰希望大家不仅有盈利，还要学到打败庄家的技能！昨日机器学习在20：30 临场推荐了意乙 萨勒尼塔纳 VS 阿斯科利，最终主队2：0完胜打出。",
+                    "omnCardValue": 0,
+                    "id": "296979",
+                    "matches": [],
+                    "last_modified": "2017-03-27 12:01:13",
+                    "price": "8",
+                    "date_added": "2017-03-27 12:01:13",
+                    "rejected": false,
+                    "authorName": "人杰足彩",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161124_171732793037_835_avatar.jpg",
+                    "author_id": "375",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 18,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【私信福利免费送】今早NBA5中4，2个超级回血全都打出，而且最近3天超级回血注7中6，前天2个超回全中，昨天超回3中2，今天又是2个超回全中，而且昨晚私信的单子又红了，没让兄弟们失望，越到赛季末，精",
+                    "omnCardValue": 0,
+                    "id": "296976",
+                    "matches": [],
+                    "last_modified": "2017-03-27 11:58:00",
+                    "price": "8",
+                    "date_added": "2017-03-27 11:58:00",
+                    "rejected": false,
+                    "authorName": "足彩精算师",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170222_104810921091_254_avatar.png",
+                    "author_id": "491",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【3.27nba滚地收益170%】都说礼拜一买卖稀，但是王后还是在今早3场nba滚地当中完成2连胜的佳绩！100%命中产生了170%的收益哦！对于王后来说，比赛不在多而在于精，希望各位粉丝也不要盲目追",
+                    "omnCardValue": 0,
+                    "id": "296973",
+                    "matches": [],
+                    "last_modified": "2017-03-27 11:56:29",
+                    "price": "8",
+                    "date_added": "2017-03-27 11:56:29",
+                    "rejected": false,
+                    "authorName": "足彩王后",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170304_142504808217_346_avatar.png",
+                    "author_id": "518",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【胜率为王的时代，看什么哗众取宠】自团队正式回归后带来【超级信心单】，深得大家喜爱，目前是5红黑，团队会继续保持良好的状态和良心推荐，昨晚战绩在下方也公布私信送的开拓者更是稳的要命！！今天比赛不多，大",
+                    "omnCardValue": 0,
+                    "id": "296969",
+                    "matches": [],
+                    "last_modified": "2017-03-27 11:46:21",
+                    "price": "18",
+                    "date_added": "2017-03-27 11:46:21",
+                    "rejected": false,
+                    "authorName": "SKY盈利计划",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/e32dbee7864a7c28/20160509_192535408859_61_avatar.jpg",
+                    "author_id": "259",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 8,
+                            "showUserFlag": false,
+                            "name": "直播",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "湖人VS开拓者目前大小分183.5分。推荐亚盘去小球，速度！",
+                    "omnCardValue": 0,
+                    "id": "296963",
+                    "matches": [
+                        {
+                            "entry_id": "115590",
+                            "away_team": "波特兰开拓者",
+                            "start_time": "2017-03-27 09:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "洛杉矶湖人"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 11:18:19",
+                    "price": "",
+                    "date_added": "2017-03-27 11:18:19",
+                    "rejected": false,
+                    "authorName": "田明新",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170311_102533975068_65_avatar.jpg",
+                    "author_id": "529",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "大家好！周末两天共推荐10场6红2走2黑，不败率80%；周日早场推荐不佳，被澳超两连坑；晚上迅速调整状态，精选4场欧洲预选赛全部免费公开推荐，不负众望取得3红1走的佳绩！",
+                    "omnCardValue": 0,
+                    "id": "296953",
+                    "matches": [],
+                    "last_modified": "2017-03-27 10:49:23",
+                    "price": "18",
+                    "date_added": "2017-03-27 10:49:23",
+                    "rejected": false,
+                    "authorName": "拆盘专家",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/1840dd4687a0f59e/20161023_134100339261_815_avatar.jpg",
+                    "author_id": "349",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "昨天有事情，没有发比赛推荐，前天运气还不错，上一周总体打平，这周继续努力吧，因只能发48小时之内的战绩，附上战绩表：",
+                    "omnCardValue": 0,
+                    "id": "296952",
+                    "matches": [],
+                    "last_modified": "2017-03-27 10:48:26",
+                    "price": "18",
+                    "date_added": "2017-03-27 10:48:26",
+                    "rejected": false,
+                    "authorName": "肥仔数据量化足球",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20160701_141706953540_103_avatar.png",
+                    "author_id": "289",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 8,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "最近10轮8胜2黑，胜率80% 鉴于最近不少铁粉及新关注X-paul的朋友一直私信X-paul要战绩表，昨天X-paul出差回归，最近10轮推荐红黑情况如下请各位铁粉查阅！",
+                    "omnCardValue": 0,
+                    "id": "296948",
+                    "matches": [],
+                    "last_modified": "2017-03-27 10:41:43",
+                    "price": "8",
+                    "date_added": "2017-03-27 10:41:43",
+                    "rejected": false,
+                    "authorName": "每日推单",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/80437be2d79e7f58/20160413_130806300979_861_avatar.png",
+                    "author_id": "221",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "私推收米啦，私推收米啦。。。球海经济昨天没有做公推但是私推再次收米如果你还不关注或许你再将错过收获的时节上周精推八场，六红一走一黑红单率百分之七十五试问这样的状态还能更好吗？答案是肯定的球海经济只做精",
+                    "omnCardValue": 0,
+                    "id": "296935",
+                    "matches": [],
+                    "last_modified": "2017-03-27 10:11:21",
+                    "price": "",
+                    "date_added": "2017-03-27 10:11:21",
+                    "rejected": false,
+                    "authorName": "球海经济",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170308_185853313542_486_avatar.jpg",
+                    "author_id": "527",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 3,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "最新一期的任九推荐已经出台~~想免费要的朋友们抓紧私信啦！活动截止到明天下午三点哦!",
+                    "omnCardValue": 0,
+                    "id": "296930",
+                    "matches": [],
+                    "last_modified": "2017-03-27 10:05:59",
+                    "price": "",
+                    "date_added": "2017-03-27 10:05:59",
+                    "rejected": false,
+                    "authorName": "任九大师",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170208_190705228535_393_avatar.png",
+                    "author_id": "476",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "今天NBA收官赛事湖人V开拓者（5星）已发车，数据到位，信心满满，兄弟们，速速买票上车！😁😁😁👊👊👊",
+                    "omnCardValue": 0,
+                    "id": "296915",
+                    "matches": [],
+                    "last_modified": "2017-03-27 09:31:36",
+                    "price": "18",
+                    "date_added": "2017-03-27 09:31:36",
+                    "rejected": false,
+                    "authorName": "今晚我坐庄",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161201_194242230004_986_avatar.jpg",
+                    "author_id": "382",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "天亮请收米！皮皮虾，我们收起来！昨晚三场推荐两红一走水，避开欧洲中国队 英格兰的深盘雷区，前一比赛日的大量下盘下克上我们也成功避开，回血止损，到不到位！！！我们会延续良好的状态，再接再厉，和各位一起加",
+                    "omnCardValue": 0,
+                    "id": "296907",
+                    "matches": [],
+                    "last_modified": "2017-03-27 09:18:03",
+                    "price": "",
+                    "date_added": "2017-03-27 09:18:03",
+                    "rejected": false,
+                    "authorName": "神串推手",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170317_123959499878_264_avatar.png",
+                    "author_id": "537",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "湖人这场比赛目前盘口稳定，还没解锁的速速上车",
+                    "omnCardValue": 0,
+                    "id": "296906",
+                    "matches": [],
+                    "last_modified": "2017-03-27 09:17:57",
+                    "price": "8",
+                    "date_added": "2017-03-27 09:17:57",
+                    "rejected": false,
+                    "authorName": "黑猫",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/5f88f151d43af906/20160505_173056285841_968_avatar.jpg",
+                    "author_id": "248",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "昨晚大杀四方的朋友请别潜水了好吗，不能一大早地来报个数吗？都说报喜不报忧，咋在精彩说都养成了报忧不报喜的毛病？晚上不带你装逼了。",
+                    "omnCardValue": 0,
+                    "id": "296898",
+                    "matches": [],
+                    "last_modified": "2017-03-27 09:09:07",
+                    "price": "8",
+                    "date_added": "2017-03-27 09:09:07",
+                    "rejected": false,
+                    "authorName": "旺财看英超",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/a17a1d42583ef250/20160509_181715767876_311_avatar.jpg",
+                    "author_id": "258",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 8,
+                            "showUserFlag": false,
+                            "name": "直播",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "现在是中场休息时间，40比55，丹佛掘金落后15分，如果赛前有小注【新奥尔良鹈鹕独赢】的球迷朋友，可以再小注【丹佛掘金受让8.5分，即时水位0.74】，切勿下重",
+                    "omnCardValue": 0,
+                    "id": "296897",
+                    "matches": [
+                        {
+                            "entry_id": "115587",
+                            "away_team": "新奥尔良鹈鹕",
+                            "start_time": "2017-03-27 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "丹佛掘金"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 09:08:22",
+                    "price": "8",
+                    "date_added": "2017-03-27 09:08:22",
+                    "rejected": false,
+                    "authorName": "主播小谈",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20161230_213109078502_196_avatar.png",
+                    "author_id": "423",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "【交收日重心】{9:30NBA湖人VS开拓者}，心水已发送，初临盘数据符合预期，值得投资，可放心解锁。",
+                    "omnCardValue": 0,
+                    "id": "296890",
+                    "matches": [
+                        {
+                            "entry_id": "115590",
+                            "away_team": "波特兰开拓者",
+                            "start_time": "2017-03-27 09:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "洛杉矶湖人"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 08:59:03",
+                    "price": "8",
+                    "date_added": "2017-03-27 08:59:03",
+                    "rejected": false,
+                    "authorName": "智者临盘",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/1840dd4687a0f59e/20161031_214653584668_830_avatar.jpg",
+                    "author_id": "358",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 8,
+                            "showUserFlag": false,
+                            "name": "直播",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "NBA走地推介：现时第二节还有2分42秒，比分38比53，丹佛掘金（金块）主场落后15分，可以小注丹佛掘金（金块）受让6.5分",
+                    "omnCardValue": 0,
+                    "id": "296888",
+                    "matches": [
+                        {
+                            "entry_id": "115587",
+                            "away_team": "新奥尔良鹈鹕",
+                            "start_time": "2017-03-27 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "丹佛掘金"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 08:57:11",
+                    "price": "8",
+                    "date_added": "2017-03-27 08:57:11",
+                    "rejected": false,
+                    "authorName": "主播小谈",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20161230_213109078502_196_avatar.png",
+                    "author_id": "423",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "今天最后一场2017-03-27NBA9:30湖人VS开拓者（全场让分）已经推荐，欢迎选购",
+                    "omnCardValue": 0,
+                    "id": "296884",
+                    "matches": [
+                        {
+                            "entry_id": "115590",
+                            "away_team": "波特兰开拓者",
+                            "start_time": "2017-03-27 09:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "洛杉矶湖人"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 08:51:03",
+                    "price": "18",
+                    "date_added": "2017-03-27 08:51:03",
+                    "rejected": false,
+                    "authorName": "小杨看球",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/cba9d08830fa185f/20160512_142655675135_836_avatar.jpg",
+                    "author_id": "263",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 4,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "新一轮的免费任九单现在开始预订啦！我会在分析完第一时间回复您！活动时间截止到2017年3月28号下午15:00！想要的朋友可以私信啦~~",
+                    "omnCardValue": 0,
+                    "id": "296882",
+                    "matches": [],
+                    "last_modified": "2017-03-27 08:47:29",
+                    "price": "",
+                    "date_added": "2017-03-27 08:47:29",
+                    "rejected": false,
+                    "authorName": "任九大师",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20170208_190705228535_393_avatar.png",
+                    "author_id": "476",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "昨日战绩回顾：由于时间的原因，战绩不能保证天天更新，大家可以自行翻阅。",
+                    "omnCardValue": 0,
+                    "id": "296876",
+                    "matches": [],
+                    "last_modified": "2017-03-27 08:40:13",
+                    "price": "28",
+                    "date_added": "2017-03-27 08:40:13",
+                    "rejected": false,
+                    "authorName": "竞彩足球盘口大师",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b274d5a44b0b35ca/20160310_115648898193_442_avatar.jpg",
+                    "author_id": "175",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 7,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "昨日三场黄金胆全部遭遇滑铁卢！郁闷至极，昨日我个人投注损失惨重！解锁这三场黄金胆赛事的所有朋友们！连续一周7天不用解锁本人推荐的所有黄金胆赛事！昨日的三场黄金胆赛事全黑！冷哥必用一周的推荐来弥补大家，",
+                    "omnCardValue": 0,
+                    "id": "296871",
+                    "matches": [],
+                    "last_modified": "2017-03-27 08:19:38",
+                    "price": "18",
+                    "date_added": "2017-03-27 08:19:38",
+                    "rejected": false,
+                    "authorName": "专治冷门",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/53cc4bf396fce1aa/20160430_211000044054_714_avatar.jpg",
+                    "author_id": "228",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "2017年福彩3D第79期的预测:胆码8,和值看13,关注508。祝大家天天开心快乐！今天有好运气！",
+                    "omnCardValue": 0,
+                    "id": "296868",
+                    "matches": [],
+                    "last_modified": "2017-03-27 08:10:59",
+                    "price": "",
+                    "date_added": "2017-03-27 08:10:59",
+                    "rejected": false,
+                    "authorName": "福彩达人",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161201_191432373388_771_avatar.jpg",
+                    "author_id": "381",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "彩友们早上好！2017年福彩3D第78期开奖号码是:449，大小比1:2，奇偶比1:2，跨度是5。恭喜你中奖！",
+                    "omnCardValue": 0,
+                    "id": "296865",
+                    "matches": [],
+                    "last_modified": "2017-03-27 08:07:45",
+                    "price": "",
+                    "date_added": "2017-03-27 08:07:45",
+                    "rejected": false,
+                    "authorName": "福彩达人",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161201_191432373388_771_avatar.jpg",
+                    "author_id": "381",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 27,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 5,
+                            "showUserFlag": false,
+                            "name": "晒单",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "私信回复“金手指”可获66元重点单。近48小时战绩7中7，命中率百分百，再之前的我们先不谈，如你想知道更多加藤先生的实力，可以关注进来看看，长期战绩是如何稳定的，相信加藤先生会成为你以后路上的惊喜。早",
+                    "omnCardValue": 0,
+                    "id": "296864",
+                    "matches": [],
+                    "last_modified": "2017-03-27 08:03:31",
+                    "price": "",
+                    "date_added": "2017-03-27 08:03:31",
+                    "rejected": false,
+                    "authorName": "加藤先生",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170320_182949848262_396_avatar.png",
+                    "author_id": "539",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "由于平台出了小甲鱼的臀部，新规定，不允许滚球上首页，涛总也是没办法...今日恭喜发财NBA滚球第二弹已发出！免费推荐，有兴趣的朋友关注涛总去看吧，近期状态不错，关注之后可以去看我的晒单！",
+                    "omnCardValue": 0,
+                    "id": "296857",
+                    "matches": [],
+                    "last_modified": "2017-03-27 07:55:53",
+                    "price": "18",
+                    "date_added": "2017-03-27 07:55:53",
+                    "rejected": false,
+                    "authorName": "亚盘涛总",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161130_135602078051_785_avatar.jpg",
+                    "author_id": "380",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 2,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "今天周一，祝大家都有一个愉快的心情！一个美好的早晨，需要一场好的比赛，比赛信息，9:00哥伦甲，云斯卡尔达斯Vs佩雷拉精英！推荐玩法，亚盘让球胜负加一场非常看好的比赛，可以入手！中午让我们的午餐加两个",
+                    "omnCardValue": 0,
+                    "id": "296852",
+                    "matches": [
+                        {
+                            "entry_id": "113909",
+                            "away_team": "佩雷拉金鹰",
+                            "start_time": "2017-03-27 09:00:00",
+                            "cup_name": "哥伦甲春",
+                            "home_team": "云斯卡尔达斯"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 07:50:36",
+                    "price": "18",
+                    "date_added": "2017-03-27 07:50:36",
+                    "rejected": false,
+                    "authorName": "竞彩学者达哥",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20160706_163319709254_671_avatar.jpg",
+                    "author_id": "292",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 5,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "【NBA还在送】平台出了新规定后会变得更好，不再乌烟瘴气，你们所能看到的就是我们实打实的战绩，红是红黑是黑，团队从不会隐瞒，想必昨晚跟上的朋友一定有米收，在这儿还是建议大家不要自己选择跟哪单，每一单发",
+                    "omnCardValue": 0,
+                    "id": "296846",
+                    "matches": [],
+                    "last_modified": "2017-03-27 07:42:23",
+                    "price": "18",
+                    "date_added": "2017-03-27 07:42:23",
+                    "rejected": false,
+                    "authorName": "SKY盈利计划",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/e32dbee7864a7c28/20160509_192535408859_61_avatar.jpg",
+                    "author_id": "259",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "今天起来发现丹佛掘金对新奥尔良鹈鹕的盘口变了，看了一下新闻，主力内线考辛斯（从卡臣斯）缺阵，虽然NBA的胜负主要并非单看某一个球员能否登场，但始终有影响。如果想下注新奥尔良鹈鹕但还没下注新奥尔良鹈鹕的",
+                    "omnCardValue": 0,
+                    "id": "296842",
+                    "matches": [
+                        {
+                            "entry_id": "115587",
+                            "away_team": "新奥尔良鹈鹕",
+                            "start_time": "2017-03-27 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "丹佛掘金"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 07:34:14",
+                    "price": "8",
+                    "date_added": "2017-03-27 07:34:14",
+                    "rejected": false,
+                    "authorName": "主播小谈",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/eb039607806a01b2aee9/20161230_213109078502_196_avatar.png",
+                    "author_id": "423",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 0,
+                    "purchaseNums": 0,
+                    "portal_list": [],
+                    "articleFixed": false,
+                    "digest": "由于平台出了小甲鱼的臀部，新规定，不允许滚球上首页，涛总也是没办法...今日恭喜发财NBA滚球第一弹已发出！免费推荐，有兴趣的朋友关注涛总去看吧，近期状态不错，关注之后可以去看我的晒单！",
+                    "omnCardValue": 0,
+                    "id": "296836",
+                    "matches": [],
+                    "last_modified": "2017-03-27 07:19:56",
+                    "price": "18",
+                    "date_added": "2017-03-27 07:19:56",
+                    "rejected": false,
+                    "authorName": "亚盘涛总",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161130_135602078051_785_avatar.jpg",
+                    "author_id": "380",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 1,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "比赛信息：2017-3-27 勇士 vs 灰熊 8:00 盘口分析：勇士现在防守效率联盟第二，主场优势，但灰熊是少数能在勇士主场把他们拉下马的，盘口开出-10分，还算正常，但面对一个追求防守的球队还是",
+                    "omnCardValue": 0,
+                    "id": "296821",
+                    "matches": [
+                        {
+                            "entry_id": "115588",
+                            "away_team": "孟菲斯灰熊",
+                            "start_time": "2017-03-27 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "金州勇士"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 06:23:22",
+                    "price": "",
+                    "date_added": "2017-03-27 06:23:22",
+                    "rejected": false,
+                    "authorName": "德维恩球场老大爷",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/f0e5c9885d0b474a/20170325_123107800920_23_avatar.png",
+                    "author_id": "549",
+                    "chargeable": false,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                },
+                {
+                    "omnCardId": 0,
+                    "authorFollowed": false,
+                    "textLength": 0,
+                    "articlePraised": false,
+                    "articleCollected": false,
+                    "praiseNums": 20,
+                    "purchaseNums": 0,
+                    "portal_list": [
+                        {
+                            "id": 14,
+                            "showUserFlag": false,
+                            "name": "篮彩",
+                            "showChannelFlag": false
+                        }
+                    ],
+                    "articleFixed": false,
+                    "digest": "观察已久的最后三场NBA能跟进的兄弟们放心跟进，另外建议尽量不要挑食，才能立于不败之地，昨天的足球甚至以前所有的比赛大家有目共睹，推波佬也从来不贬低别人来抬举自己，那是有多么的不自信，实力就是实力！当",
+                    "omnCardValue": 0,
+                    "id": "296820",
+                    "matches": [
+                        {
+                            "entry_id": "115587",
+                            "away_team": "新奥尔良鹈鹕",
+                            "start_time": "2017-03-27 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "丹佛掘金"
+                        },
+                        {
+                            "entry_id": "115588",
+                            "away_team": "孟菲斯灰熊",
+                            "start_time": "2017-03-27 08:00:00",
+                            "cup_name": "美职篮",
+                            "home_team": "金州勇士"
+                        },
+                        {
+                            "entry_id": "115590",
+                            "away_team": "波特兰开拓者",
+                            "start_time": "2017-03-27 09:30:00",
+                            "cup_name": "美职篮",
+                            "home_team": "洛杉矶湖人"
+                        }
+                    ],
+                    "last_modified": "2017-03-27 06:20:13",
+                    "price": "18",
+                    "date_added": "2017-03-27 06:20:13",
+                    "rejected": false,
+                    "authorName": "推波佬",
+                    "authorPic": "http://api.jingcaishuo.com/static/upfiles/b5931a30ff91651e/20161025_123054227458_514_avatar.png",
+                    "author_id": "351",
+                    "chargeable": true,
+                    "is_toppage": "true",
+                    "articlePurchased": false
+                }
+            ],
+            "Code": "0000"
+        },
+        "data": {
+            "Portal": [
+                {
+                    "img_url": "http://api.jingcaishuo.com//static/upfiles/d21ccf194f200dad/20170119_205351798363_750.png",
+                    "id": 8,
+                    "showChannelValue": "",
+                    "showUserFlag": false,
+                    "showUserValue": "",
+                    "name": "直播",
+                    "h5Url": "http://www.jingcaishuo.com/mandarin_h5_html/zoudi_mandarin/",
+                    "target_url": "http://www.jingcaishuo.com/mandarin_h5_html/zoudi_mandarin/",
+                    "showChannelFlag": false
+                },
+                {
+                    "img_url": "http://api.jingcaishuo.com//static/upfiles/d21ccf194f200dad/20170119_205425440782_249.png",
+                    "id": 14,
+                    "showChannelValue": "",
+                    "showUserFlag": false,
+                    "showUserValue": "",
+                    "name": "篮彩",
+                    "h5Url": "http://www.jingcaishuo.com/mandarin_h5_html/lancai_mandarin/",
+                    "target_url": "http://www.jingcaishuo.com/mandarin_h5_html/lancai_mandarin/",
+                    "showChannelFlag": false
+                },
+                {
+                    "img_url": "http://api.jingcaishuo.com//static/upfiles/d21ccf194f200dad/20170119_205454252325_335.png",
+                    "id": 23,
+                    "showChannelValue": "",
+                    "showUserFlag": false,
+                    "showUserValue": "",
+                    "name": "竞彩串关",
+                    "h5Url": "http://www.jingcaishuo.com/mandarin_h5_html/SMG_mandarin/",
+                    "target_url": "http://www.jingcaishuo.com/mandarin_h5_html/SMG_mandarin/",
+                    "showChannelFlag": false
+                },
+                {
+                    "img_url": "http://api.jingcaishuo.com//static/upfiles/d21ccf194f200dad/20170119_205516097392_518.png",
+                    "id": 30,
+                    "showChannelValue": "",
+                    "showUserFlag": false,
+                    "showUserValue": "",
+                    "name": "联赛卡",
+                    "h5Url": "http://www.jingcaishuo.com/mandarin_h5_html/lsc_mandarin/",
+                    "target_url": "http://www.jingcaishuo.com/mandarin_h5_html/lsc_mandarin/",
+                    "showChannelFlag": false
+                }
+            ],
+            "Code": "0000",
+            "Banner": []
+        }
+    },
+    "code": "0000",
+    "msg": "请求成功！"
+}
